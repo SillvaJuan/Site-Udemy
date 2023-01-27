@@ -113,7 +113,7 @@ nav a {
         padding-bottom: 50px;
     }
     .um_terço, .um_terço a{
-        color:rgb(126, 6, 12);
+        color:rgb(0, 0, 0);
     }
     .um_terço .logo{
         width: 100%;
@@ -200,8 +200,7 @@ nav a {
         }
         .um_terço{
             width: 100%;
-            border-bottom: 1px solid rgb(189, 119, 119); 
-            padding-left: 20px;           
+            border-bottom: 1px solid rgb(250, 106, 106); 
         }
         .magem_esquerda{
             margin-left: 0px;
